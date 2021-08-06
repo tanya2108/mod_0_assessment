@@ -5,6 +5,6 @@ var house = {
   yearRemodeled: 2000,
   isNew: false,
   hasABackyard: true,
-  needsUpgradesIn: ["Kitchen", "Bathroom"],
-  ageOfKidsInHouse: [2,2]    
+  upgradedAreas: ["Kitchen", "Bathroom"],
+  ageOfKids: [2,2]
 }

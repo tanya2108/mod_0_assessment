@@ -5,6 +5,6 @@ var laptop = {
   yearPurchased: 2021,
   isNew: true,
   isBroken: false,
-  programsUsed: ["Atom", "Safari", "Chrome"],
+  usedPrograms: ["Atom", "Safari", "Chrome"],
   userNames: ["Tanya", "Guest"]
 }
